@@ -30,5 +30,14 @@ See, not that hard!
 **Link to a video of HIC if we have one**
 
 ##The HyperCube
-No, we are not talking about the sequal to the Sci-fi thriller [Cube](http://www.imdb.com/title/tt0123755/).  
-In addition to the associative experience we also
+No, we are not refering to the sequal to the Sci-fi thriller [Cube](http://www.imdb.com/title/tt0123755/).  
+
+In addition to the associative experience we also have what we refer to as virtual, in-memory computational cubes or HyperCubes for short.  
+These HyperCubes consists of Dimensions and Expressions (or Columns and Rows in non-data-geek-speak) and will evaluate based on the available data and expand into a data matrix and meta-data.  
+The HyperCubes core function is to provide calculations and aggregations on top of the associative data model.
+
+For example, if we have a table of Directors and Movies and we could specify the field Director as the dimension (Column) and write a expression (rows) to count the number of movies for each director.
+  
+Dimension: Director  
+Expression: Count(Movie)  
+
