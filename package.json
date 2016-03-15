@@ -1,0 +1,22 @@
+{
+  "name": "qlik-on-demand-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "qsocks": "^2.1.15",
+    "react": "^0.14.7"
+  },
+  "devDependencies": {
+    "babelify": "^7.2.0",
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
